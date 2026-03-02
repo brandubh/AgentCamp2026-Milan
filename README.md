@@ -38,6 +38,14 @@ Explore how Copilot Studio can orchestrate multiple intelligent agents built acr
 
 A deep dive into Microsoft Agent Framework, an open-source SDK in .NET and Python, to build, deploy, and manage sophisticated multi-agent systems. It unifies the enterprise-ready foundations of Semantic Kernel with the innovative orchestration of AutoGen.
 
+## Repository
+
+All the code, demos, and resources used during the sessions are available in the following repository:
+
+🔗 **[AgentCamp 2026 Milan - Code & Resources](https://github.com/annafabris/agentcamp-msft)**
+
+Clone it and follow the instructions in `SETUP-LOCAL.md` to try everything out on your own!
+
 ## Join Us
 
 ### Register for the Event
